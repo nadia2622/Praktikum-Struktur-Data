@@ -4,7 +4,7 @@
 
 using namespace std; // Supaya kita bisa pakai cout tanpa harus nulis std::cout
 
-int main()
+int main() // Nadia Tambunan 103122400005
 {
     // ini bahasan variable
     int x,y; // Deklarasi variabel biasa, tipe integer
@@ -40,7 +40,7 @@ int main()
     cout << "\nData nilai siswa:\n";
     for (i = 0; i <MAX; i++) {
         cout << "Nilai ke-" << i + 1 << " = " << nilai[i] << endl;
-    }
+    } // Nadia Tambunan 103122400005
 
     // Menampilkan isi array 2 dimensi
     cout << "\nNilai Tahunan : \n";
